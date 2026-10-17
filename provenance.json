@@ -1,0 +1,307 @@
+{
+  "supplied_archive": "智能机器人技术期末作业(1).zip",
+  "archive_sha256": "d983ef17cf3830723cde4025c392318152c932d8e9366b3909a03a4da75ef00f",
+  "original_files_copied_byte_for_byte": 63,
+  "original_files": [
+    {
+      "path": "original/benchmark/algorithms/__init__.py",
+      "bytes": 22,
+      "sha256": "071a6526da6e3bee814475f2cd265f4291a816dc2140a5940f92d1425eb2e87b"
+    },
+    {
+      "path": "original/benchmark/algorithms/base.py",
+      "bytes": 2178,
+      "sha256": "19b6c00bd8dcec04a383a4bcd88b3cf575edd88ec6d8225924225bfc3fc8035d"
+    },
+    {
+      "path": "original/benchmark/algorithms/deep_value/base_deep_rl.py",
+      "bytes": 8283,
+      "sha256": "4a305087d13f6ab819326290097901fc0dbab1ac0c56562e7c8195403dae12f3"
+    },
+    {
+      "path": "original/benchmark/algorithms/deep_value/double_dqn.py",
+      "bytes": 2078,
+      "sha256": "73ec193f54b38ce91f7aab9d9bec706e76a64775f858933e78408a45b29d7f9b"
+    },
+    {
+      "path": "original/benchmark/algorithms/deep_value/dqn.py",
+      "bytes": 2233,
+      "sha256": "6d28065e3ec4090775f4eb0a11ba13617276b79071d435b187046a3cca9245ae"
+    },
+    {
+      "path": "original/benchmark/algorithms/deep_value/dueling_dqn.py",
+      "bytes": 3383,
+      "sha256": "07894a9e5485cd8878ea7b9bc91ef789e3c5905ee25d9ae8e68ca4bbaa13144b"
+    },
+    {
+      "path": "original/benchmark/algorithms/deep_value/per_dqn.py",
+      "bytes": 5984,
+      "sha256": "b0bed91f982d889483c60e92b7c031c9b1f3c95b8a3ecb8d84d9c2503e74c066"
+    },
+    {
+      "path": "original/benchmark/algorithms/model_based/dyna_q.py",
+      "bytes": 5101,
+      "sha256": "2d843f05a51e22ad3ef19c16e5aecaf9de75e50986f827da7514c752df53b7b5"
+    },
+    {
+      "path": "original/benchmark/algorithms/planning/__init__.py",
+      "bytes": 31,
+      "sha256": "7850c2de891dd64c0d1e9cfa23357d3b691b60173899eba326884882a7532386"
+    },
+    {
+      "path": "original/benchmark/algorithms/planning/astar.py",
+      "bytes": 6033,
+      "sha256": "1260166d40d286c7fb300c6950b6202d9e86fab70028224b924e0eadf38f96da"
+    },
+    {
+      "path": "original/benchmark/algorithms/planning/policy_iteration.py",
+      "bytes": 5097,
+      "sha256": "9aaac3c62dbb32c29152a89bbbcb2a8e32da8dee2d618bbb167df7bd4d9038a2"
+    },
+    {
+      "path": "original/benchmark/algorithms/planning/value_iteration.py",
+      "bytes": 4604,
+      "sha256": "cce093798101bdca354f082cad4cbed401015bed64c79f4b744169f0b84d6d00"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/__init__.py",
+      "bytes": 33,
+      "sha256": "3a0ab3b715b8ad3be75f1b64e110ac144fb4c6826c967b47cae744007ff4bf16"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/base_tabular.py",
+      "bytes": 2626,
+      "sha256": "217b3e8069fd634b365f23941bccbfd6124ae0baa6903cfa9e5b92756a804dc9"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/double_q_learning.py",
+      "bytes": 5897,
+      "sha256": "399dec6031d43a9fba03c353d7aa7bc19c941682ad2820c413d92ab2188fea2e"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/eligibility_traces.py",
+      "bytes": 5556,
+      "sha256": "dccd5a8530f72c2dbb69aa0d2bec7a6987faf85662be47e44ca284433680eb32"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/expected_sarsa.py",
+      "bytes": 4656,
+      "sha256": "baf994ac0f3369c7b875f9a1d0aa9d2265f78e9ab5284e0a0e43550fbef21b08"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/monte_carlo_control.py",
+      "bytes": 6284,
+      "sha256": "233a5af5b596b1cc996cbd07b870cdeb679ab250c9ce46030b11c9ca0568c493"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/n_step_td.py",
+      "bytes": 6833,
+      "sha256": "8cd4e3c2629f203affd5ae474fbe963806fea4e667a2797396dea7b1deccf060"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/q_learning.py",
+      "bytes": 4638,
+      "sha256": "da1839406316d58b64094f1abd08164306beabf9ea1bcb4c4d3de2baaa9668e9"
+    },
+    {
+      "path": "original/benchmark/algorithms/tabular/sarsa.py",
+      "bytes": 3617,
+      "sha256": "1f34b6ec821c5f0d397a873c6715e77856999184588e675a820eba52391808d0"
+    },
+    {
+      "path": "original/benchmark/environments/__init__.py",
+      "bytes": 24,
+      "sha256": "b18ef9c9ce41da334d58c171d16d6eaf2bc02dc9b0d5f91f26dc6f34435c936a"
+    },
+    {
+      "path": "original/benchmark/environments/frozenlake_env.py",
+      "bytes": 3249,
+      "sha256": "fa9ad2192e0d5c39d60e29d84ddacdb59948c0dd7224be0d6c90617653853247"
+    },
+    {
+      "path": "original/benchmark/environments/maps_icegrid.py",
+      "bytes": 7802,
+      "sha256": "6e57613a08181977b7d85c3bca64f4c0d28425e1c2ddde31d967aad2e4a0fab7"
+    },
+    {
+      "path": "original/benchmark/experiments/configs.py",
+      "bytes": 12544,
+      "sha256": "0a0a95ca0093dd59be6235a688d8fb44b43cb3127641f7eda1f9180390e6fa63"
+    },
+    {
+      "path": "original/benchmark/experiments/experiment_runner.py",
+      "bytes": 22583,
+      "sha256": "268e97236f08bb40f59c66aca43b4bd3cf983f18c1f4cdde781e4728f23a2f86"
+    },
+    {
+      "path": "original/benchmark/experiments/run_experiments.py",
+      "bytes": 4503,
+      "sha256": "a23767b816a1b24be53cc74fd1044154e61abb6af77ea539158724aca4263f7d"
+    },
+    {
+      "path": "original/benchmark/generate_visualizations.py",
+      "bytes": 382,
+      "sha256": "68a49ca1476d6fd4555694c4603b7160c65e83a8c89379cc3358bf3b3f4142d4"
+    },
+    {
+      "path": "original/benchmark/results/experiment_summary.json",
+      "bytes": 947970,
+      "sha256": "a3170652ab1766b723f3a33bca9bbcc7e52679a778f403e4b7cc1954b2f28e59"
+    },
+    {
+      "path": "original/benchmark/run_full_benchmark.py",
+      "bytes": 4137,
+      "sha256": "c05885ef7b097bdc4021b6aa77df6d885243896b5a764604a2447749406710d3"
+    },
+    {
+      "path": "original/benchmark/visualization/__init__.py",
+      "bytes": 307,
+      "sha256": "2ec834d9e45448f0f0a6732f92ac0e205ca5cc072be75ba401d44cdc81e83d4e"
+    },
+    {
+      "path": "original/benchmark/visualization/animation.py",
+      "bytes": 23329,
+      "sha256": "355fe226b9ff0dabe762c7d78dacecc1e085b6dd41035ab1978deeec1f543a82"
+    },
+    {
+      "path": "original/benchmark/visualization/experiment_viz.py",
+      "bytes": 10777,
+      "sha256": "6dc93cc03c527609763bc46559b8f7511597f5f5b201f08789a5fedaca11d8a3"
+    },
+    {
+      "path": "original/benchmark/visualization/generate_visualizations.py",
+      "bytes": 10323,
+      "sha256": "1e9eb94539fdcece5086a047613c128b84882a1b72d14f01dd7f9ec89f67a787"
+    },
+    {
+      "path": "original/benchmark/visualization/static_plots.py",
+      "bytes": 31416,
+      "sha256": "fe19f0211a7d5f169cc11c4c8b2e5f18e9bf3f5324e27ccf8a0eef11b9f26d01"
+    },
+    {
+      "path": "original/benchmark/visualization/training_progress.py",
+      "bytes": 12373,
+      "sha256": "9631968faaa6ac6dcb038dfddd9009162ba2d672f80bf2d6623779a3361e2c36"
+    },
+    {
+      "path": "original/uav/ReadME.pdf",
+      "bytes": 433449,
+      "sha256": "e3e3dc7edce89335e2d13b708df1d39816fc8fadbb5ddf22d25797f7301106de"
+    },
+    {
+      "path": "original/uav/仿真测试代码/Deterministic.py",
+      "bytes": 5572,
+      "sha256": "4195dd8f0bc54b4dd622043f4b3cd0367f6a634506e0b5802710e7c5386ea9bf"
+    },
+    {
+      "path": "original/uav/仿真测试代码/DeterministicWeighted.py",
+      "bytes": 5292,
+      "sha256": "9ec21e69322f57b89a9522650ed8158b5f91192c6f87fc5c3c20627df2811351"
+    },
+    {
+      "path": "original/uav/仿真测试代码/Stochastic.py",
+      "bytes": 6290,
+      "sha256": "6b2c6cb367a65061541b9f1cd5c873b2d4608ee95c5ba1950a27c07ad2b28b3f"
+    },
+    {
+      "path": "original/uav/仿真测试代码（冰湖环境）/GymDeterministic.py",
+      "bytes": 4350,
+      "sha256": "5d1201c4f9ae0e5e8b96ae4257b4dbc9219efeb5025790b6e41b192e21d45d13"
+    },
+    {
+      "path": "original/uav/仿真测试代码（冰湖环境）/GymStochastic.py",
+      "bytes": 4615,
+      "sha256": "ce919b646759ef012ebeffd155b9a04cb4b640b90af349871a4fc8e2057c0e87"
+    },
+    {
+      "path": "original/uav/实机串口接口代码/CommandConstructor.py",
+      "bytes": 8815,
+      "sha256": "2c19bd011e4c5d1c6e95ec3a720333ff6acd399dfac26168260560fbeedf5d70"
+    },
+    {
+      "path": "original/uav/实机串口接口代码/QueueSignal.py",
+      "bytes": 92,
+      "sha256": "9b0d1650b97fbfaaf2efb9dd6a6a449d11f2895fca1f674e4187176bbb2cd879"
+    },
+    {
+      "path": "original/uav/实机串口接口代码/ReadDataParser.py",
+      "bytes": 5060,
+      "sha256": "da42b8002aa2908aeb99b7ec0250cd6d2bf32506420d206424a67807f2621678"
+    },
+    {
+      "path": "original/uav/实机串口接口代码/SerialThread.py",
+      "bytes": 4528,
+      "sha256": "77235ba213fe25d800c22f2d5d1752383ddd5f047e9793eaae9228a2cd8d9dc9"
+    },
+    {
+      "path": "original/uav/实机测试代码/TrueDeterministic.py",
+      "bytes": 5747,
+      "sha256": "aacf66a3a6cc0cb5685597cad7d17819950457577e1407a75d8642dbc1eb0e7f"
+    },
+    {
+      "path": "original/uav/实机测试代码/TrueStochastic.py",
+      "bytes": 6426,
+      "sha256": "f8be8c6be643f79d36b1f73fbc95cf6b84b0c2910428eea395af921005631f19"
+    },
+    {
+      "path": "original/uav/实机测试代码/TrueWeight.py",
+      "bytes": 7462,
+      "sha256": "a47c3456741df5ffb4c745b36fbc1532a01b1424ad66e8049598e7b01e90ff5d"
+    },
+    {
+      "path": "original/uav/模型权重/ddqn_l.pth",
+      "bytes": 1124596,
+      "sha256": "8ad94084233f52fa4f4691504ba2111a7dda45ea449fa6960df5a10dfb2ea30f"
+    },
+    {
+      "path": "original/uav/模型权重/ddqn_m.pth",
+      "bytes": 868596,
+      "sha256": "ecce9af2b19a50c26946ab0d885a05dffd134a9850667e05b329e8721f721fad"
+    },
+    {
+      "path": "original/uav/模型权重/ddqn_s.pth",
+      "bytes": 737524,
+      "sha256": "26f27be83979af4de0ff41efd7c839338c5a5d35eee9a3c62889b933c8385d47"
+    },
+    {
+      "path": "original/uav/模型权重/dqn_weighted_path.pth",
+      "bytes": 869176,
+      "sha256": "b8f0640ec5c652262d1248c237806d2097a93fbe2e5fdce25c61436507254637"
+    },
+    {
+      "path": "original/uav/模型训练代码/train.py",
+      "bytes": 7839,
+      "sha256": "427ea0a38979ef5162ea37c0473a21c223d44716c5b280e88760b11ae731827b"
+    },
+    {
+      "path": "original/uav/模型训练代码/trainWeighted.py",
+      "bytes": 6556,
+      "sha256": "c85aaf809843ba59c8c736bf5a195d7384a24093d5b23824a0713dd31563a0e1"
+    },
+    {
+      "path": "docs/assets/code-guide.pdf",
+      "bytes": 63148,
+      "sha256": "f9f6bdf1d463df6865426f519c91941c55ead1ab0702ec8ae33cf1ae37905f02"
+    },
+    {
+      "path": "docs/assets/flight-deterministic.mp4",
+      "bytes": 3552972,
+      "sha256": "cd8a05832c5fdfddc6c9e55760510317cd1fb8a6143b570505d0dcfe182e4f9e"
+    },
+    {
+      "path": "docs/assets/flight-stochastic.mp4",
+      "bytes": 4181762,
+      "sha256": "299305acaca402cf6b88e199750eb08fde9918b7d994b3091f6f89e15414d2e8"
+    },
+    {
+      "path": "docs/assets/flight-weighted.mp4",
+      "bytes": 3870009,
+      "sha256": "bfc8dd70fad5faa226e3de2cace4468ddbeb5e455717b90f5dc6263f6c2140a6"
+    },
+    {
+      "path": "docs/assets/project-report.pdf",
+      "bytes": 10403650,
+      "sha256": "6913c02ff8a315d243e195d47b6bcd8aa2e944447258a062a884fa536682149c"
+    }
+  ]
+}
