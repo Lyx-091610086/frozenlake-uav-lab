@@ -2,9 +2,11 @@
 
 Interactive project showcase for a Sun Yat-sen University robotics course team: **朱嘉语、林妍汐、毛星懿、刘仲晗、刘礼豪**. Portfolio presentation by **Yanxi Lin / 林妍汐**.
 
-**Demo:** https://frozenlake-robotics-lab.free-harp-2721.chatgpt.site
+**Demo (GitHub Pages):** https://lyx-091610086.github.io/frozenlake-uav-lab/
 
-**Repository:** https://github.com/Lyx-091610086/frozenlake-uav-lab (private at creation).
+**Alternate demo (Sites):** https://frozenlake-robotics-lab.free-harp-2721.chatgpt.site
+
+**Repository:** https://github.com/Lyx-091610086/frozenlake-uav-lab (public).
 
 ## What is here
 
@@ -14,6 +16,10 @@ Interactive project showcase for a Sun Yat-sen University robotics course team: 
 - Three original UAV flight recordings, the submitted report, original Python source, saved model weights, and experiment summaries.
 
 This is a **team project**, not a claim of sole authorship. The interactive browser implementation was added for presentation. Original research artifacts are kept separately and have not been silently repaired or relabeled as new experiments.
+
+## Deployment
+
+GitHub Pages publishes the `docs/` directory through [the deployment workflow](.github/workflows/deploy-pages.yml). Changes to `docs/`, `tests/`, or the workflow on `main` run the engine/data tests and validate static resource paths before publishing. The workflow can also be started manually from the Actions tab.
 
 ## Quick start
 
